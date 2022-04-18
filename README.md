@@ -12,7 +12,7 @@ npm start
 ```
 
 ## Built With
-* [JavaScript](#general-info)
-* [React](#technologies)
-* [Context API](#technologies)
-* [Firebase](#technologies)
+* [JavaScript](#https://www.javascript.com/)
+* [React](#https://reactjs.org/)
+* [Context API](#https://reactjs.org/docs/context.html)
+* [Firebase](#https://firebase.google.com/)
